@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.borde-redondo {
+    border-radius: 15px;    
+}
+
+.img-principal {
+    width: 100%;
+    height: auto;
+}
+
+.img-small {
+    width: auto;
+    height: 30rem;
+    display: inline;
+}
+
+.img-medium {
+    width: auto;
+    height: 40rem;
+    display: block;
+}
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 4rem;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+#tituloprincipal {
+    font-size: 5rem;
+
+}
+h2{
+    color: black;
+    font-size: 30px;
+
+}
+.navegacion {
+    font-size: 20px;
+    display: inline;
+    color: black;
+    font-family: poppins;
+    
+}
+.principal {
+    font-family: poppins;
+}

@@ -1,0 +1,14 @@
+.grilla {
+    padding: 1rem;
+    width: 100%;
+    height: 100vh;
+}
+
+.grilla section {
+        padding: 1rem;
+        height: auto;
+}
+
+div {
+    padding: 1rem;
+}
